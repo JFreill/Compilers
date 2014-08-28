@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1409089749 source:c:\users\excessive\compilers\buffer\buffer.c
+	"buffer.h"
+
+1409085708 c:\users\excessive\compilers\buffer\buffer.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<limits.h>
+	<string.h>
+	<errno.h>
+
+1357316134 source:c:\users\excessive\compilers\buffer\platy_bt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"buffer.h"
+
+1357316134 source:c:\users\excessive\google drive\school\winter 2014\compilers\buffer\platy_bt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"buffer.h"
+
+1409085708 c:\users\excessive\google drive\school\winter 2014\compilers\buffer\buffer.h
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<limits.h>
+	<string.h>
+	<errno.h>
+
+1409169835 source:c:\users\excessive\google drive\school\winter 2014\compilers\buffer\buffer.c
+	"buffer.h"
+
